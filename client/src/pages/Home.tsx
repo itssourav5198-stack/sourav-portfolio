@@ -137,7 +137,7 @@ const founderBrands = [
   {
     name: "Mr. Lyricist Label",
     image: "/images/logo-3_92b5975d.png",
-    description: "A music label and distribution platform operating in partnership with Divine Epic.",
+    description: "A music label and distribution platform operating.",
   },
 ];
 
