@@ -68,12 +68,14 @@ const songProjects = [
     title: "Last Sunrise",
     category: "Phonk / 05",
     description: "Indian-style phonk shaped by the tension of Mahabharata.",
+    image: "/images/sunrise.png",
     url: "https://www.youtube.com/results?search_query=Last+Sunrise+Mr.+Lyricist",
   },
   {
     title: "Montagem Tambor",
     category: "Phonk / 06",
     description: "Brazilian phonk for the late-night archive.",
+    image: "/images/montagem.png",
     url: "https://www.youtube.com/results?search_query=Montagem+tambor+Mr.+Lyricist",
   },
 ];
