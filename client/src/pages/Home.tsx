@@ -40,28 +40,28 @@ const songProjects = [
     title: "Qareebiyan",
     category: "Romance / 01",
     description: "A modern take on love — emotional, relatable, and soulful.",
-    image: "/manus-storage/Qareebiyaan_4cc25132.png",
+    image: "/images/Qareebiyaan_4cc25132.png",
     url: "https://www.youtube.com/results?search_query=Qareebiyan+Mr.+Lyricist",
   },
   {
     title: "She / Her",
     category: "Love / 02",
     description: "When she is your all — a heartfelt tribute to love and devotion.",
-    image: "/manus-storage/she_c8060585.png",
+    image: "/images/she_c8060585.png",
     url: "https://www.youtube.com/results?search_query=She+Her+Mr.+Lyricist",
   },
   {
     title: "Nishaan",
     category: "Concept / 03",
     description: "The age of darkness unfolds — a powerful, atmospheric composition.",
-    image: "/manus-storage/nishaan_e423bef8.png",
+    image: "/images/nishaan_e423bef8.png",
     url: "https://www.youtube.com/results?search_query=Nishaan+Mr.+Lyricist",
   },
   {
     title: "DharamYuddha",
     category: "Concept / 04",
     description: "A warrior's song and a powerful historical memory.",
-    image: "/manus-storage/dharamyuddha_44ec84d5.png",
+    image: "/images/dharamyuddha_44ec84d5.png",
     url: "https://www.youtube.com/results?search_query=DharamYuddha+Mr.+Lyricist",
   },
   {
@@ -82,42 +82,42 @@ const webProjects = [
   {
     title: "LyroWeb Solution",
     label: "Agency / 01",
-    image: "/manus-storage/solution_c47663a0.png",
+    image: "/images/solution_c47663a0.png",
     url: "https://lyroweb.durablesites.com/",
     description: "Digital services agency delivering web design, app development, and branded digital content for local businesses.",
   },
   {
     title: "LyroWeb Student Portal",
     label: "Full stack / 02",
-    image: "/manus-storage/lyroweb_ad84d673.png",
+    image: "/images/lyroweb_ad84d673.png",
     url: "https://lyroweb-solution.vercel.app/",
     description: "A full-stack internship portal for automated task delivery, submission tracking, onboarding, and admin controls.",
   },
   {
     title: "Sohima Production",
     label: "Studio / 03",
-    image: "/manus-storage/sohima_064fe989.png",
+    image: "/images/sohima_064fe989.png",
     url: "https://sohima-production.vercel.app/",
     description: "A cinematic content studio for original books, audiobooks, animated adaptations, and production workflows.",
   },
   {
     title: "Mr. Lyricist Distribution",
     label: "Platform / 04",
-    image: "/manus-storage/label_a4cfc7eb.png",
+    image: "/images/label_a4cfc7eb.png",
     url: "https://mr-lyricist-distributor.vercel.app/",
     description: "Artist-facing music distribution portal with releases, status tracking, rights support, and artist relations.",
   },
   {
     title: "ComVerse",
     label: "CRM / 05",
-    image: "/manus-storage/comverse_8076d189.png",
+    image: "/images/comverse_8076d189.png",
     url: "https://comverse.its-sourav5198.workers.dev/",
     description: "All-in-one HRMS and workforce management for attendance, payroll, documents, banking and virtual IDs.",
   },
   {
     title: "Kaksha",
     label: "CRM / 06",
-    image: "/manus-storage/kaksha_ba368539.png",
+    image: "/images/kaksha_ba368539.png",
     url: "https://edverse-delta.vercel.app/",
     description: "School and college management for attendance, fees, notices, assignments, and digital IDs.",
   },
@@ -126,17 +126,17 @@ const webProjects = [
 const founderBrands = [
   {
     name: "LyroWeb Solution",
-    image: "/manus-storage/logo-1_4c39ede9.png",
+    image: "/images/logo-1_4c39ede9.png",
     description: "A digital services and web design agency building websites, portals, and digital products.",
   },
   {
     name: "Sohima Production",
-    image: "/manus-storage/logo-2_48e816fa.png",
+    image: "/images/logo-2_48e816fa.png",
     description: "A cinematic content studio producing books, audiobooks, and animated experiences.",
   },
   {
     name: "Mr. Lyricist Label",
-    image: "/manus-storage/logo-3_92b5975d.png",
+    image: "/images/logo-3_92b5975d.png",
     description: "A music label and distribution platform operating in partnership with Divine Epic.",
   },
 ];
@@ -278,7 +278,7 @@ export default function Home() {
           </motion.div>
         </div>
         <motion.div className="hero-image-wrap" initial={{ opacity: 0, clipPath: "inset(100% 0 0 0)" }} animate={{ opacity: 1, clipPath: "inset(0 0 0 0)" }} transition={{ duration: 1.05, delay: 0.18, ease: [0.77, 0, 0.175, 1] }}>
-          <img src="/manus-storage/me_8412c43d.png" alt="Sourav Maity" className="hero-image" />
+          <img src="/images/me_8412c43d.png" alt="Sourav Maity" className="hero-image" />
           <div className="hero-image-index">PORTRAIT / 2026</div>
           <div className="hero-image-stamp">SM</div>
         </motion.div>
