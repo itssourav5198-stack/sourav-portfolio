@@ -415,6 +415,7 @@ export default function Home() {
           <div className="contact-details">
             <a href="mailto:its.sourav5198@gmail.com"><Mail size={19} /><span><small>Email</small>its.sourav5198@gmail.com</span><ArrowUpRight size={17} /></a>
             <a href="tel:+918595069417"><Phone size={19} /><span><small>Phone</small>+91 8595069417</span><ArrowUpRight size={17} /></a>
+            <a href="https://lyroweb-pricing.vercel.app/"><Website size={19} /><span><small>Website</small>https://lyroweb-pricing.vercel.app/</span><ArrowUpRight size={17} /></a>
             <div><MapPin size={19} /><span><small>Based in</small>Gurgaon, Haryana, IN</span></div>
           </div>
         </Reveal>
