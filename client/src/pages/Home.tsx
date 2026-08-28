@@ -123,6 +123,20 @@ const webProjects = [
     url: "https://edverse-delta.vercel.app/",
     description: "School and college management for attendance, fees, notices, assignments, and digital IDs.",
   },
+  {
+    title: "ACAT",
+    label: "Platform / 07",
+    image: "/images/acat.png",
+    url: "https://acat-aegis.vercel.app/",
+    description: "A cybersecurity-focused team dedicated to cyber awareness, digital safety, ethical security, and protecting people from cyber threats.",
+  },
+  {
+    title: "Admission PRO",
+    label: "CRM / 08",
+    image: "/images/admission.png",
+    url: "https://coachverse.vercel.app/",
+    description: "AI-powered Coaching Institute CRM that streamlines lead management, admissions, follow-ups, student management, and revenue analytics in one platform.",
+  },
 ];
 
 const founderBrands = [
