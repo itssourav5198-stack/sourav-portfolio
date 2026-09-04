@@ -349,25 +349,25 @@ export default function Home() {
       <section id="experience" className="content-section experience-section">
         <Reveal><SectionTitle index="04" eyebrow="Timeline" title="The work" italic="continues." /></Reveal>
         <div className="timeline">
-          <Reveal className="timeline-item" delay={0.08}>
-            <div className="timeline-date">SEP 2024 — PRESENT</div>
-            <div><h3>Song Writer</h3><p className="timeline-company">Freelancer · Mr. Lyricist</p></div>
-            <ul><li>Crafted lyrics and composed musical pieces through melody, harmony and rhythm.</li><li>Negotiated royalty contracts for fair creative compensation.</li><li>Built a diverse online composition portfolio to attract collaborators and clients.</li></ul>
+          <Reveal className="timeline-item" delay={0.24}>
+            <div className="timeline-date">2026 — PRESENT</div>
+            <div><h3>Chief Technical Officer</h3><p className="timeline-company">Assam Cyber Aegis Team (ACAT)</p></div>
+            <ul><li>Oversee website security and maintenance for a volunteer cyber-safety initiative.</li><li>Ship bug fixes and time-critical updates to keep the platform running smoothly.</li><li>Built and maintain the team's web presence through LyroWeb Solutions.</li></ul>
           </Reveal>
           <Reveal className="timeline-item" delay={0.16}>
             <div className="timeline-date">JUL 2025 — PRESENT</div>
             <div><h3>Poster & Website Designer</h3><p className="timeline-company">Freelancer · LyroWeb</p></div>
             <ul><li>Created web experiences that improved engagement by 20%.</li><li>Led redesigns that increased web traffic by 30%.</li><li>Produced custom 3D and polished poster artwork for clients.</li></ul>
           </Reveal>
-          <Reveal className="timeline-item" delay={0.24}>
-            <div className="timeline-date">2025 — PRESENT</div>
-            <div><h3>Chief Technical Officer</h3><p className="timeline-company">Assam Cyber Aegis Team (ACAT)</p></div>
-            <ul><li>Oversee website security and maintenance for a volunteer cyber-safety initiative.</li><li>Ship bug fixes and time-critical updates to keep the platform running smoothly.</li><li>Built and maintain the team's web presence through LyroWeb Solutions.</li></ul>
-          </Reveal>
           <Reveal className="timeline-item" delay={0.32}>
-            <div className="timeline-date">2024 — PRESENT</div>
+            <div className="timeline-date">2025 — PRESENT</div>
             <div><h3>Script Writer & Producer</h3><p className="timeline-company">Sohima Production</p></div>
             <ul><li>Write scripts for DHARAMYUDDHA, a Hinglish mythological cinematic universe.</li><li>Produce and manage projects across the studio, from concept to release.</li><li>Coordinate collaborators including narrators, co-creators and directors.</li></ul>
+          </Reveal>
+          <Reveal className="timeline-item" delay={0.08}>
+            <div className="timeline-date">SEP 2024 — PRESENT</div>
+            <div><h3>Song Writer</h3><p className="timeline-company">Freelancer · Mr. Lyricist</p></div>
+            <ul><li>Crafted lyrics and composed musical pieces through melody, harmony and rhythm.</li><li>Negotiated royalty contracts for fair creative compensation.</li><li>Built a diverse online composition portfolio to attract collaborators and clients.</li></ul>
           </Reveal>
         </div>
       </section>
